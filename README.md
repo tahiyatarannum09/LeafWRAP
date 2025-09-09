@@ -32,5 +32,3 @@ git clone https://github.com/tahiyatarannum09/LeafWRAP.git
 cd LeafWRAP
 # Install dependencies if any
 # Run the project locally (depends on your setup)
-
-
