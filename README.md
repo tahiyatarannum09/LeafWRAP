@@ -10,12 +10,6 @@ Check out the project live on GitHub Pages:
 
 ---
 
-## 🖼️ Project Preview
-![LeafWRAP Demo](assets/screenshot.png)  
-*Screenshot of LeafWRAP in action.*
-
----
-
 ## ⚡ Features
 - Detects multiple types of leaf diseases from images  
 - Provides quick and accurate results  
@@ -38,4 +32,5 @@ git clone https://github.com/tahiyatarannum09/LeafWRAP.git
 cd LeafWRAP
 # Install dependencies if any
 # Run the project locally (depends on your setup)
+
 
